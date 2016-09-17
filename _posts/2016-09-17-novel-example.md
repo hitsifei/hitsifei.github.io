@@ -1,6 +1,6 @@
 ---
-layout:default
-title:百字样例
+layout: default
+title: 百字样例
 ---
 
 <h3>\<百字幻想 writer=98\></h3>
@@ -42,4 +42,4 @@ title:百字样例
 落落垂着头，小声的嘟囔：”人家才第一次写嘛“
 \<\百字幻想 \>
 
-<hr>
+{{page.date | date_to_string}}
