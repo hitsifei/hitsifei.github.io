@@ -87,8 +87,11 @@ section img {
 }
 
 #logo {
-  width: 100% auto;
-  height: 100% auto;
+  width: 100px auto;
+  height: 100px auto;
+  position: relative;
+  top: 0px;
+  right: 0px;
 }
 
 h1, h2, h3, h4, h5, h6 {
