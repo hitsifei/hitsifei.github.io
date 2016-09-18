@@ -85,10 +85,10 @@ header h2 {
 section img {
   max-width: 100%
 }
+
 #logo {
   width: 100% auto;
   height: 100% auto;
-  float: right;
 }
 
 h1, h2, h3, h4, h5, h6 {
