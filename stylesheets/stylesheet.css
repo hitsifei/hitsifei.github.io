@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: url(http://1.sprout.applinzi.com/background)fixed #9c9c9c!important;
-  color: #eaeaea;
+  color: #000000;
   font: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -80,7 +80,7 @@ header h2 {
 #main_content {
   width: 100%;
   -webkit-font-smoothing: antialiased;
-  background-color: rgba(200, 200, 200, 0.5);
+  background-color: rgba(200, 200, 200, 0.7);
 }
 section img {
   max-width: 100%
@@ -91,9 +91,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #b5e853;
   letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3),
+               0 0 5px rgba(181, 232, 83, 0.3),
+               0 0 10px rgba(181, 232, 83, 0.3);
 }
 
 #main_content h1 {
