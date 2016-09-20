@@ -94,10 +94,11 @@ section img {
   height: 100px auto;
   max-width: 150px;
   max-height: 150px;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  display: inline-block;
+  float: right;
+  /*position: absolute;*/
+  /*top: 0px;*/
+  /*right: 0px;*/
+  /*display: inline-block;*/
 }
 
 h1, h2, h3, h4, h5, h6 {
