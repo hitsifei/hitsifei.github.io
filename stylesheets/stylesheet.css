@@ -86,12 +86,14 @@ section img {
   max-width: 100%
 }
 .index-header {
-  max-height: 200px
+  max-height: 165px
 }
 
 #logo {
   width: 100px auto;
   height: 100px auto;
+  max-width: 150px;
+  max-height: 150px;
   position: relative;
   top: 0px;
   right: 0px;
