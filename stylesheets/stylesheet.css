@@ -85,6 +85,9 @@ header h2 {
 section img {
   max-width: 100%
 }
+.index-header {
+  max-height: 200px
+}
 
 #logo {
   width: 100px auto;
