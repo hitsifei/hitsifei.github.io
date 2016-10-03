@@ -8,7 +8,11 @@
 <body>
   <div class="container">
     <section id="main_content">
-      {{ content }}
+      <div class="hundred" >
+        <h1 id="h-title">{{ page.title }}</h1>
+        <h2 id="h-date">{{ page.date | date_to_string}}</h2>
+        {{ content }}
+      </div>
     </section>
   </div>
   {% include footer.html %}
